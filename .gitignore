@@ -7,7 +7,7 @@
 /src/server/public
 
 # env
-.env
+#.env
 
 # dependencies
 /node_modules
